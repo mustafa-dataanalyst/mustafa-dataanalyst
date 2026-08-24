@@ -1,4 +1,4 @@
-# Mustafa Zafar
+# Sahibzada Ghulam Mustafa Zafar
 
 ### Data Analyst | SQL • Python • Power BI • Excel
 
