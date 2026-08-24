@@ -1,7 +1,146 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>End-to-end data analytics projects using Python, SQL, PostgreSQL, Power BI, and Excel.<br><br>👯 I’m looking to collaborate on<br>Data analytics, business intelligence, dashboarding, and automation projects.<br><br>🤝 I’m looking for help with<br>Advanced analytics, data engineering, and scalable cloud-based data solutions.<br><br>🌱 I’m currently learning<br>Azure, Databricks, R, and advanced data engineering workflows.<br><br>💬 Ask me about<br>SQL, Python, Excel, Power BI, DAX, Power Query, PostgreSQL, MySQL, and data visualization.<br><br>⚡ Fun fact<br>Built an AI content channel that reached 9K+ subscribers and 3M+ views from 71 videos in 2025.
+# Mustafa Zafar
 
+### Data Analyst | SQL • Python • Power BI • Excel
 
+I’m a Data Analyst focused on transforming raw and messy data into clear business insights and actionable recommendations.
+
+I work across the analytics workflow — from data cleaning and SQL analysis to Python-based exploration, KPI development, data modeling, and interactive Power BI dashboards.
+
+---
+
+## What I Do
+
+- Data Cleaning & Transformation
+- Exploratory Data Analysis
+- SQL Data Analysis
+- Business & Customer Analytics
+- KPI Development & Monitoring
+- Data Modeling
+- Power BI Dashboard Development
+- Excel Analysis & Reporting
+- Python-based Data Analysis
+
+---
+
+## Technical Skills
+
+**Languages & Querying**
+- SQL
+- Python
+- DAX
+
+**Data Analysis**
+- Pandas
+- NumPy
+- Matplotlib
+- Exploratory Data Analysis
+- Statistical Analysis
+
+**Business Intelligence**
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Dashboard Development
+
+**Databases**
+- MySQL
+- PostgreSQL
+
+**Excel**
+- Advanced Excel
+- PivotTables
+- Power Query
+- Data Visualization
+
+---
+
+## Featured Projects
+
+### Customer Trends & Sales Analysis
+**SQL • Python • Power BI • ETL**
+
+End-to-end analytics project focused on customer behavior, sales performance, and business trends.
+
+- Cleaned and transformed raw data
+- Performed SQL-based analysis
+- Conducted exploratory analysis using Python
+- Built KPIs and business metrics
+- Developed an interactive Power BI dashboard
+- Identified customer and sales trends
+- Produced actionable business recommendations
+
+[View Project](./Customer-Trends-Analysis)
+
+---
+
+### Netflix Data Analysis
+**SQL • Exploratory Data Analysis • Visualization**
+
+Analyzed Netflix content to identify patterns across titles, genres, countries, release years, and content types.
+
+- Explored content distribution
+- Analyzed genres and release trends
+- Examined country-level patterns
+- Used SQL to answer analytical questions
+- Created visualizations to communicate findings
+
+[View Project](./Netflix-SQL-Project)
+
+---
+
+### Bike Sales Analysis
+**Excel • PivotTables • Dashboard • Customer Segmentation**
+
+Analyzed bike purchasing behavior to understand customer demographics and purchasing patterns.
+
+- Cleaned and prepared the dataset
+- Built PivotTables
+- Performed customer segmentation
+- Analyzed purchasing behavior
+- Created an interactive Excel dashboard
+- Identified patterns across demographic groups
+
+[View Project](./Excel-Bike-Sales)
+
+---
+
+### Data Professional Survey Analysis
+**Power BI • Power Query • DAX • Data Modeling**
+
+Analyzed survey responses from data professionals to understand salaries, job roles, programming languages, and work preferences.
+
+- Cleaned survey data using Power Query
+- Created calculated measures using DAX
+- Built a data model
+- Developed interactive visualizations
+- Analyzed salary and career trends
+- Built an executive-style Power BI dashboard
+
+[View Project](./Data-Professional-Survey-Breakdown)
+
+---
+
+## Analytics Workflow
+
+```text
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Data Transformation
+   ↓
+SQL / Python Analysis
+   ↓
+Data Modeling
+   ↓
+KPI Development
+   ↓
+Power BI / Excel Visualization
+   ↓
+Business Insights
+   ↓
+Recommendations
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gull.6) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mustafa GUll) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gullby6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-gull) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mustafa-gull) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sam-jps) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gullby6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafa.zafar.jp@gmail.com) 
 
