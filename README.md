@@ -4,7 +4,7 @@
 
 I’m a Data Analyst focused on transforming raw and messy data into clear business insights and actionable recommendations.
 
-I work across the analytics workflow from data cleaning and SQL analysis to Python-based exploration, KPI development, data modeling, and interactive Power BI dashboards , have problem with Data i gotcha 
+I work across the analytics workflow from data cleaning and SQL analysis to Python-based exploration, KPI development, data modeling, and interactive Power BI dashboards , if you have problem with Data i gotcha 
 
 ---
 
