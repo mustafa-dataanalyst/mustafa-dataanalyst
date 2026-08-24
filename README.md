@@ -1,6 +1,6 @@
 # Sahibzada Ghulam Mustafa Zafar
 
-### Data Analyst | SQL • Python • Power BI • Excel
+### Data Analyst | SQL • Python • Power BI • Excel • DataBricks • Git
 
 I’m a Data Analyst focused on transforming raw and messy data into clear business insights and actionable recommendations.
 
