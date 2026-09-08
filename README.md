@@ -70,7 +70,7 @@ End-to-end analytics project focused on customer behavior, sales performance, an
 - Identified customer and sales trends
 - Produced actionable business recommendations
 
-[View Project](./Customer-Trends-Analysis)
+[View Project]([./Customer-Trends-Analysis](https://github.com/mustafa-dataanalyst/Customer_Trends_Sales_Analysis_Sql_Python_PowerBi_Excel))
 
 ---
 
